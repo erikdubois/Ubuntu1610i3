@@ -357,3 +357,6 @@ In the mean time I have a fix for spotify in the config.
 ![Screenshots](http://i.imgur.com/SSvDwKe.jpg)
 
 
+![Screenshots](http://i.imgur.com/IzWXODw.jpg)
+
+
