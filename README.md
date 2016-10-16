@@ -2,12 +2,7 @@
 
 I3 = [improved tiling windows manager](https://i3wm.org/)
 
-We start from an up-to-date Linux Mint 18 Cinnamon as described on 
-http://erikdubois.be.
-
-As described here at [this github](https://github.com/erikdubois/Ultimate-Linux-Mint-18-Cinnamon)
-
-or described in [this youtube movie](https://www.youtube.com/watch?v=5db66Dt0j4E).
+We start from an up-to-date Ubuntu 16.10.
 
 You will end up with all the needed icons and applications we will use in the I3 tutorials.
 
@@ -20,7 +15,7 @@ We will be using the following applications in the I3 tutorials :
 
 #Prerequisites
 
-First install Linux Mint 18 Cinnamon like you always would.
+First install Ubuntu 16.10 like you always would.
 
 Then update.
 
@@ -37,7 +32,7 @@ Get the code from github. Install git first
 
 Then
 
-	git clone https://github.com/erikdubois/i3-on-Linux-Mint-18-Cinnamon.git
+	git clone https://github.com/erikdubois/i3-on-Ubuntu-16.10
 
 This folder, your are downloading, is all you will need to get I3 working <b>the easy way</b>.
 
@@ -50,6 +45,18 @@ Folder <b>I3</b> are all the settings to get a working I3 and it is in the folde
 
 
 # Installation Procedure of I3
+
+I copy/pasted the procedure for Linux mint 18 from here.
+
+https://github.com/erikdubois/i3-on-Linux-Mint-18-Cinnamon
+
+THERE WAS NO NEED TO CHANGE THE INSTALLATION SCRIPTS
+
+Changes were made
+
+
+- Filemanager in Ubuntu is Nautilus not Nemo.
+
 
 Let us install I3 first. Go inside the folder <b>Installation</b>. You will find folders that are to be run in sequence. The folders are named according to our titles.
 
