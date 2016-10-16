@@ -4,9 +4,15 @@ I3 = [improved tiling windows manager](https://i3wm.org/)
 
 We start from an up-to-date Ubuntu 16.10.
 
-You will end up with all the needed icons and applications we will use in the I3 tutorials.
+
 
 ![Screenshots](http://i.imgur.com/EsZhchJ.png)
+
+
+I like to tune my machines. Scripts for Ubuntu 16.10 are here.
+
+
+https://github.com/erikdubois/Ultimate-Ubuntu-16.10
 
 
 ![Screenshots](http://i.imgur.com/oX6UZty.jpg)
