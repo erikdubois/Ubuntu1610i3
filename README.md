@@ -12,9 +12,6 @@ You will end up with all the needed icons and applications we will use in the I3
 ![Screenshots](http://i.imgur.com/oX6UZty.jpg)
 
 
-We will be using the following applications in the I3 tutorials :
-
-+ variety
 
 
 #Prerequisites
@@ -351,12 +348,12 @@ In the mean time I have a fix for spotify in the config.
 ![Screenshots](http://i.imgur.com/YzFLCMz.jpg)
 
 
-![Screenshots](http://i.imgur.com/Xz1Q0ss.jpg)
+![Screenshots](http://i.imgur.com/EIMPD8I.jpg)
 
 
-![Screenshots](http://i.imgur.com/IzWXODw.jpg)
+![Screenshots](http://i.imgur.com/aOfKt7H.jpg)
 
 
-![Screenshots](http://i.imgur.com/UcmfwmS.jpg)
+![Screenshots](http://i.imgur.com/SSvDwKe.jpg)
 
 
