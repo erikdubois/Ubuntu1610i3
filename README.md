@@ -52,7 +52,7 @@ https://github.com/erikdubois/i3-on-Linux-Mint-18-Cinnamon
 
 THERE WAS NO NEED TO CHANGE THE INSTALLATION SCRIPTS
 
-Changes were made
+Changes were however made in the config file
 
 
 - Filemanager in Ubuntu is Nautilus not Nemo.
@@ -64,7 +64,7 @@ Let us install I3 first. Go inside the folder <b>Installation</b>. You will find
 
 ###Folder 1-i3-from-repo
 
-First we will get I3 from the Linux Mint Repositories (version 4.11) by running the script
+First we will get I3 from the Ubuntu Repositories (version 4.11) by running the script
 
 	install_i3_version_4.11_from_repositories.sh
 
