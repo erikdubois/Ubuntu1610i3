@@ -6,7 +6,11 @@ We start from an up-to-date Ubuntu 16.10.
 
 You will end up with all the needed icons and applications we will use in the I3 tutorials.
 
-![Screenshots](http://i.imgur.com/QSggN1G.jpg)
+![Screenshots](http://i.imgur.com/EsZhchJ.png)
+
+
+![Screenshots](http://i.imgur.com/oX6UZty.jpg)
+
 
 We will be using the following applications in the I3 tutorials :
 
@@ -344,47 +348,15 @@ In the mean time I have a fix for spotify in the config.
 
 
 
-![Screenshots](http://i.imgur.com/5RZaVMg.jpg)
+![Screenshots](http://i.imgur.com/YzFLCMz.jpg)
 
 
-Conky to help you with the basic information and the basic keyboard shortcuts
-
-![Screenshots](http://i.imgur.com/irN98nN.jpg)
+![Screenshots](http://i.imgur.com/Xz1Q0ss.jpg)
 
 
-Lxappearance to change icons, themes, ...
+![Screenshots](http://i.imgur.com/IzWXODw.jpg)
 
 
 ![Screenshots](http://i.imgur.com/UcmfwmS.jpg)
 
 
-# Step 10 for the never satisfied and always learning or the die hards.
-
-This is the standard i3statusbar but already personalised.
-
-![Screenshots](http://i.imgur.com/Xz1Q0ss.jpg)
-
-
-## Conky folder
-
-You can have a conky instead of the standard i3statusbar.
-
-
-![Screenshots](http://i.imgur.com/ogYQLaV.jpg)
-
-
-## i3 blocks
-
-You can have other information in your i3statusbar. You can use i3 blocks from
-https://github.com/vivien/i3blocks as well
-
-![Screenshots](http://i.imgur.com/JExirXa.jpg)
-
-
-## Dunst
-
-An alternative to libnotify. Sends messages to the user. Next song etc..
-You can set the look via dunstrc file.
-
-
-![Screenshots](http://i.imgur.com/SVrdzsh.jpg)
